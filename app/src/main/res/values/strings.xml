@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ebdi android</string>
+    <string name="example_string">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi posuere id lorem vel hendrerit. Aenean metus nisi, pulvinar a tincidunt eget, elementum nec magna.</string>
+    <string name="example_name">Marcelo Donato</string>
+    <string name="config">Configurações</string>
+
+    <string name="edit_profile">Alterar dados</string>
+    <string name="favorites">Favoritos</string>
+    <string name="policy">Termos de uso</string>
+    <string name="delete_account">Excluir conta</string>
+    <string name="logout">Sair</string>
+</resources>
